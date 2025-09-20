@@ -1,42 +1,43 @@
-<!--
-    Developer: Mohamed Gaber
-    Date: 2025-09-20
-    Description: A portfolio website for Mohamed Gaber, an aspiring full-stack developer with a passion for cybersecurity.
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Meta tags for character set, viewport, and title -->
+    <!-- Character encoding -->
     <meta charset="UTF-8">
+    <!-- Responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Page title -->
     <title>Mohamed Gaber's Portfolio - Full-Stack & Cybersecurity</title>
     
-    <!-- SEO Meta Tags -->
+    <!-- Author meta -->
     <meta name="author" content="Mohamed Gaber">
+    <!-- Description meta for SEO -->
     <meta name="description" content="An aspiring full-stack developer with a passion for cybersecurity, creating robust and secure web applications.">
     
-    <!-- Open Graph Meta Tags for social media sharing -->
+    <!-- Open Graph meta tags for social sharing -->
     <meta property="og:title" content="Mohamed Gaber | Full-Stack & Cybersecurity Portfolio">
     <meta property="og:description" content="An aspiring full-stack developer with a passion for cybersecurity, creating robust and secure web applications.">
     <meta property="og:image" content="https://yottta-apt.github.io/images/portfolio-cover.png">
     <meta property="og:url" content="https://yottta-apt.github.io/">
     <meta property="og:type" content="website">
     
-    <!-- Twitter Card Meta Tags -->
+    <!-- Twitter card meta tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Mohamed Gaber | Full-Stack & Cybersecurity Portfolio">
     <meta name="twitter:description" content="An aspiring full-stack developer with a passion for cybersecurity, creating robust and secure web applications.">
     <meta name="twitter:image" content="https://yottta-apt.github.io/images/portfolio-cover.png">
 
-    <!-- External stylesheets for fonts and icons -->
+    <!-- Favicon (replace href with your favicon path) -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+    <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     
-    <!-- Custom stylesheet -->
+    <!-- Your CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- Header section with navigation -->
     <header class="header">
         <div class="container">
             <h1>Mohamed Gaber's Portfolio</h1>
@@ -51,9 +52,8 @@
         </div>
     </header>
 
-    <!-- Main content area -->
     <main>
-        <!-- Hero section with a brief introduction -->
+        <!-- Hero Section -->
         <section id="hero" class="hero-section">
             <div class="container">
                 <h2>Hello, I'm Mohamed Gaber</h2>
@@ -63,7 +63,7 @@
             </div>
         </section>
 
-        <!-- About Me section -->
+        <!-- About Section -->
         <section id="about" class="about-section">
             <div class="container">
                 <h2><i class="fas fa-user-circle"></i> About Me</h2>
@@ -72,12 +72,11 @@
             </div>
         </section>
 
-        <!-- Skills section -->
+        <!-- Skills Section -->
         <section id="skills" class="skills-section">
             <div class="container">
                 <h2><i class="fas fa-code"></i> My Skills</h2>
                 <div class="skills-grid">
-                    <!-- Skill categories -->
                     <div class="skill-category">
                         <h3>Languages</h3>
                         <ul>
@@ -117,94 +116,86 @@
             </div>
         </section>
 
-        <!-- Projects section -->
+        <!-- Projects Section -->
         <section id="projects" class="projects-section">
             <div class="container">
                 <h2><i class="fas fa-folder-open"></i> My Projects</h2>
                 <div class="project-grid">
-                    
-                    <!-- Project 1: Real-Time Multi-Timezone Clock Application -->
                     <div class="project-card">
-                        <video controls muted autoplay loop class="project-video" src="projects/project_screenshots/clock_app_screenshot.mp4" alt="A demo of the real-time clock application."></video>
+                        <video controls muted autoplay loop class="project-video" src="projects/project_screenshots/clock_app_screenshot.mp4">
+                            Your browser does not support the video tag.
+                        </video>
                         <div class="card-content">
-                            <h3>Real-Time Multi-Timezone Clock Application</h3>
+                            <h3>timezone-clock-app</h3>
                             <p>A desktop application built with Python that displays the current time across various time zones with an interactive graphical user interface (GUI).</p>
                             <div class="project-links">
-                                <a href="projects/project_screenshots/clock_app_screenshot.mp4" class="btn-demo" target="_blank">View Demo <i class="fas fa-external-link-alt"></i></a>
-                                <a href="https://github.com/Yottta-apt/clock-app" class="btn-github" target="_blank">GitHub <i class="fab fa-github"></i></a>
+                                <a href="projects/project_screenshots/clock_app_screenshot.mp4" class="btn-demo" target="_blank" rel="noopener noreferrer">View Demo <i class="fas fa-external-link-alt"></i></a>
+                                <a href="https://github.com/yotta-hub/timezone-clock-app" class="btn-github" target="_blank" rel="noopener noreferrer">GitHub <i class="fab fa-github"></i></a>
                             </div>
                         </div>
                     </div>
-                    
-                    <!-- Project 2: SecureTask Pro -->
                     <div class="project-card">
                         <img src="projects/project_screenshots/securetask_pro_screenshot.png" alt="SecureTask Pro Screenshot" loading="lazy">
                         <div class="card-content">
                             <h3>SecureTask Pro</h3>
                             <p>An encrypted task management system focusing on data privacy and robust frontend interactivity with local storage persistence.</p>
                             <div class="project-links">
-                                <a href="projects/securetask_pro/index.html" class="btn-demo" target="_blank">Live Demo <i class="fas fa-external-link-alt"></i></a>
-                                <a href="https://github.com/Yottta-apt/securetask-pro" class="btn-github" target="_blank">GitHub <i class="fab fa-github"></i></a>
+                                <a href="projects/securetask_pro/index.html" class="btn-demo" target="_blank" rel="noopener noreferrer">Live Demo <i class="fas fa-external-link-alt"></i></a>
+                                <a href="https://github.com/yotta-hub/securetask-pro" class="btn-github" target="_blank" rel="noopener noreferrer">GitHub <i class="fab fa-github"></i></a>
                             </div>
                         </div>
                     </div>
-
-                    <!-- Project 3: PyScout -->
                     <div class="project-card">
                         <img src="projects/project_screenshots/pyscout_screenshot.png" alt="PyScout Screenshot" loading="lazy">
                         <div class="card-content">
                             <h3>PyScout</h3>
                             <p>A Python-based command-line tool for basic web vulnerability scanning (XSS, SQLi, Security Headers).</p>
                             <div class="project-links">
-                                <a href="https://github.com/Yottta-apt/pyscout" class="btn-github" target="_blank">GitHub <i class="fab fa-github"></i></a>
-                                <a href="projects/pyscout/pyscout_explanation.html" class="btn-demo" target="_blank">Learn More <i class="fas fa-info-circle"></i></a>
+                                <a href="https://github.com/yotta-hub/pyscout" class="btn-github" target="_blank" rel="noopener noreferrer">GitHub <i class="fab fa-github"></i></a>
+                                <a href="projects/pyscout/pyscout_explanation.html" class="btn-demo" target="_blank" rel="noopener noreferrer">Learn More <i class="fas fa-info-circle"></i></a>
                             </div>
                         </div>
                     </div>
-
-                    <!-- Project 4: ChefConnect -->
                     <div class="project-card">
                         <img src="projects/project_screenshots/chefconnect_screenshot.png" alt="ChefConnect Screenshot" loading="lazy">
                         <div class="card-content">
                             <h3>ChefConnect</h3>
                             <p>A dynamic recipe sharing and meal planner featuring interactive UI and local storage for recipe persistence.</p>
                             <div class="project-links">
-                                <a href="projects/chefconnect/index.html" class="btn-demo" target="_blank">Live Demo <i class="fas fa-external-link-alt"></i></a>
-                                <a href="https://github.com/Yottta-apt/chefconnect" class="btn-github" target="_blank">GitHub <i class="fab fa-github"></i></a>
+                                <a href="projects/chefconnect/index.html" class="btn-demo" target="_blank" rel="noopener noreferrer">Live Demo <i class="fas fa-external-link-alt"></i></a>
+                                <a href="https://github.com/yotta-hub/chefconnect" class="btn-github" target="_blank" rel="noopener noreferrer">GitHub <i class="fab fa-github"></i></a>
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
         </section>
 
-        <!-- Contact section -->
+        <!-- Contact Section -->
         <section id="contact" class="contact-section">
             <div class="container">
                 <h2><i class="fas fa-envelope"></i> Get In Touch</h2>
                 <p>I'm always open to new opportunities and collaborations. Feel free to reach out!</p>
                 <div class="contact-links">
                     <a href="mailto:dev3mohamed@gmail.com" class="contact-button"><i class="fas fa-at"></i> Email Me</a>
-                    <a href="https://www.linkedin.com/in/muhammad-g-shaheen/" class="contact-button" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-                    <a href="https://github.com/Yottta-apt" class="contact-button" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    <a href="https://www.linkedin.com/in/muhammad-g-shaheen/" class="contact-button" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                    <a href="https://github.com/yotta-hub" class="contact-button" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> GitHub</a>
                 </div>
             </div>
         </section>
     </main>
 
-    <!-- Footer section -->
     <footer class="footer">
         <div class="container">
             <p>&copy; 2025 Mohamed Gaber. All rights reserved.</p>
             <div class="social-links">
-                <a href="https://github.com/Yottta-apt" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
-                <a href="https://www.linkedin.com/in/muhammad-g-shaheen/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com/yotta-hub" target="_blank" aria-label="GitHub" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/muhammad-g-shaheen/" target="_blank" aria-label="LinkedIn" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
             </div>
         </div>
     </footer>
 
-    <!-- Custom script file -->
+    <!-- Your JavaScript -->
     <script src="script.js"></script>
 </body>
 </html>

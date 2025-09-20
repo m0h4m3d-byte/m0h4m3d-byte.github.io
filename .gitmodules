@@ -1,0 +1,3 @@
+[submodule "projects/timezone-clock-app"]
+	path = projects/timezone-clock-app
+	url = https://github.com/yotta-hub/timezone-clock-app.git

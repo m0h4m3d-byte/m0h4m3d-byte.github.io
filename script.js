@@ -1,3 +1,8 @@
+/**
+ * Developer: Mohamed Gaber
+ * Date: 2025-09-20
+ * Description: This script adds smooth scrolling to navigation links for the portfolio website.
+ */
 document.addEventListener('DOMContentLoaded', () => {
     // Smooth scrolling for navigation links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
