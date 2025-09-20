@@ -1,0 +1,7 @@
+# Ignore IDE and OS files
+.vscode/
+.DS_Store
+
+# Ignore build files or temporary folders
+/dist/
+*.log
