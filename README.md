@@ -1,93 +1,51 @@
-# My Portfolio
+# Mohamed Gaber Portfolio
 
-Welcome to my personal portfolio repository.
+Welcome to my portfolio repository.
 
-This portfolio showcases my projects, technical skills, and learning journey as I transition into software development.
+This portfolio showcases my projects, technical skills, certifications, and learning journey as I transition into software development.
 
-## About Me
+---
+
+# About Me
 
 I'm Mohamed Gaber, an aspiring Software Developer from Alexandria, Egypt.
 
-Currently studying Computer Science fundamentals through Harvard's CS50 and expanding my Web Development skills through IBM SkillsBuild.
+My background combines technical problem-solving, electronics experience, continuous self-learning, and a growing focus on software development.
 
-My interests include:
+Currently, I am building strong Computer Science foundations through Harvard's CS50 while expanding my skills in Python and Web Development.
 
-* Software Development
-* Web Development
+I enjoy transforming ideas into practical projects, solving technical challenges, and continuously improving my development workflow.
+
+---
+
+# Current Learning Path
+
+* CS50x – Harvard University
+* IBM SkillsBuild – Web Development Fundamentals
 * Python Programming
-* Cybersecurity
-* Artificial Intelligence
-* Problem Solving
+* JavaScript
+* SQL
+* Git & GitHub
 
 ---
 
-## Featured Projects
+# Technical Skills
 
-### Timezone Clock App
-
-A Python application that displays multiple international time zones and demonstrates practical date and time handling.
-
-**Repository:**
-https://github.com/m0h4m3d-byte/timezone-clock-app
-
----
-
-### SecureTask Pro
-
-A security-focused project exploring secure task management concepts and modern development practices.
-
-**Repository:**
-https://github.com/m0h4m3d-byte/securetask-pro
-
----
-
-### PyScout
-
-A Python-based project built to strengthen programming fundamentals, automation concepts, and software development skills.
-
-**Repository:**
-https://github.com/m0h4m3d-byte/pyscout
-
----
-
-### ChefConnect
-
-A web application project focused on user interaction, interface design, and responsive layouts.
-
-**Repository:**
-https://github.com/m0h4m3d-byte/chefconnect
-
----
-
-### E-Commerce Website
-
-A responsive e-commerce website built using modern front-end development techniques with a focus on usability and user experience.
-
----
-
-### Real Estate Web Application
-
-A property listing platform prototype focused on organized content presentation, responsive design, and intuitive navigation.
-
----
-
-## Skills
-
-### Programming Languages
+## Programming Languages
 
 * Python
 * C
 * JavaScript (Learning)
 * SQL (Learning)
 
-### Web Technologies
+## Web Development
 
 * HTML5
 * CSS3
 * Responsive Design
 * GitHub Pages
 
-### Development Tools
+## Development Tools
 
 * Git
 * GitHub
@@ -95,16 +53,80 @@ A property listing platform prototype focused on organized content presentation,
 * CS50.dev
 * Obsidian
 
-### Other Skills
+## Additional Skills
 
 * Problem Solving
 * Debugging
 * Technical Research
 * AI-Assisted Development
+* Documentation & Knowledge Management
 
 ---
 
-## Certifications
+# Featured Projects
+
+## Timezone Clock App
+
+Python application displaying multiple international time zones.
+
+Repository:
+https://github.com/m0h4m3d-byte/timezone-clock-app
+
+---
+
+## SecureTask Pro
+
+Security-focused project exploring secure task management concepts and software development practices.
+
+Repository:
+https://github.com/m0h4m3d-byte/securetask-pro
+
+---
+
+## PyScout
+
+Python-based project built to strengthen programming fundamentals, automation concepts, and development workflows.
+
+Repository:
+https://github.com/m0h4m3d-byte/pyscout
+
+---
+
+## ChefConnect
+
+Web application project focused on user interaction, interface design, and responsive layouts.
+
+Repository:
+https://github.com/m0h4m3d-byte/chefconnect
+
+---
+
+## E-Commerce Website
+
+Responsive e-commerce website focused on usability, layout design, and front-end development concepts.
+
+---
+
+## Real Estate Web Application
+
+Property listing platform prototype focused on content organization, responsive design, and user experience.
+
+---
+
+## CS50 Projects
+
+Collection of programming assignments and projects covering:
+
+* Algorithms
+* Data Structures
+* Debugging
+* File Handling
+* Software Fundamentals
+* Problem Solving
+
+---
+
+# Certifications
 
 * AI Career Essentials – ALX Arabia
 * Founder Academy – ALX Arabia
@@ -115,29 +137,40 @@ A property listing platform prototype focused on organized content presentation,
 
 ---
 
-## Languages
+# Languages
 
 * Arabic — Native
 * English — Professional Working Proficiency (B2)
 
 ---
 
-## Connect With Me
+# Current Goals
 
-**Portfolio Website**
+* Complete Harvard CS50
+* Strengthen Web Development skills
+* Build more real-world projects
+* Expand Python expertise
+* Explore Cybersecurity concepts
+* Prepare for Junior Developer opportunities
+
+---
+
+# Connect With Me
+
+Portfolio:
 https://m0h4m3d-byte.github.io/
 
-**LinkedIn**
+LinkedIn:
 https://www.linkedin.com/in/muhammad-g-shaheen/
 
-**GitHub**
+GitHub:
 https://github.com/m0h4m3d-byte
 
-**Email**
+Email:
 [dev3mohamed@gmail.com](mailto:dev3mohamed@gmail.com)
 
 ---
 
-## Current Goal
+# Philosophy
 
-Build practical software projects, strengthen Computer Science fundamentals, complete CS50, and prepare for professional opportunities in software development.
+I believe the best way to learn technology is through consistent practice, building projects, documenting knowledge, and continuously improving one step at a time.
