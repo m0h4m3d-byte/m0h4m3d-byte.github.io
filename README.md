@@ -1,55 +1,93 @@
-# Hi there, I'm Mohamed Gaber 👋
+# My Portfolio
+
+Welcome to my personal portfolio repository.
+
+This portfolio showcases my projects, technical skills, and learning journey as I transition into software development.
 
 ## About Me
 
-I'm an aspiring Software Developer from Alexandria, Egypt 🇪🇬.
+I'm Mohamed Gaber, an aspiring Software Developer from Alexandria, Egypt.
 
-Currently focused on building strong Computer Science fundamentals through Harvard's CS50 and expanding my Web Development skills through IBM SkillsBuild.
+Currently studying Computer Science fundamentals through Harvard's CS50 and expanding my Web Development skills through IBM SkillsBuild.
 
-My journey into programming is part of a career transition driven by curiosity, continuous learning, and a passion for technology.
+My interests include:
 
-I enjoy solving problems, building projects, exploring new technologies, and turning ideas into working applications.
-
-Transitioning into software development with over one year of focused self-directed learning and hands-on project building.
-
----
-
-## Quick Links
-
-🌐 Portfolio: https://m0h4m3d-byte.github.io/
-
-💼 LinkedIn: https://www.linkedin.com/in/muhammad-g-shaheen/
-
-📧 Email: [dev3mohamed@gmail.com](mailto:dev3mohamed@gmail.com)
-
----
-
-## Currently Learning
-
-* CS50x – Harvard University
-* IBM SkillsBuild – Web Development Fundamentals
+* Software Development
+* Web Development
 * Python Programming
-* Git & GitHub
-* JavaScript
-* SQL
+* Cybersecurity
+* Artificial Intelligence
+* Problem Solving
 
 ---
 
-## Technical Skills
+## Featured Projects
+
+### Timezone Clock App
+
+A Python application that displays multiple international time zones and demonstrates practical date and time handling.
+
+**Repository:**
+https://github.com/m0h4m3d-byte/timezone-clock-app
+
+---
+
+### SecureTask Pro
+
+A security-focused project exploring secure task management concepts and modern development practices.
+
+**Repository:**
+https://github.com/m0h4m3d-byte/securetask-pro
+
+---
+
+### PyScout
+
+A Python-based project built to strengthen programming fundamentals, automation concepts, and software development skills.
+
+**Repository:**
+https://github.com/m0h4m3d-byte/pyscout
+
+---
+
+### ChefConnect
+
+A web application project focused on user interaction, interface design, and responsive layouts.
+
+**Repository:**
+https://github.com/m0h4m3d-byte/chefconnect
+
+---
+
+### E-Commerce Website
+
+A responsive e-commerce website built using modern front-end development techniques with a focus on usability and user experience.
+
+---
+
+### Real Estate Web Application
+
+A property listing platform prototype focused on organized content presentation, responsive design, and intuitive navigation.
+
+---
+
+## Skills
 
 ### Programming Languages
 
 * Python
 * C
+* JavaScript (Learning)
+* SQL (Learning)
 
-### Web Development
+### Web Technologies
 
 * HTML5
 * CSS3
 * Responsive Design
 * GitHub Pages
 
-### Tools
+### Development Tools
 
 * Git
 * GitHub
@@ -66,56 +104,7 @@ Transitioning into software development with over one year of focused self-direc
 
 ---
 
-## Featured Projects
-
-### Personal Portfolio Website
-
-* Responsive portfolio website built to showcase projects and technical growth.
-* Deployed using GitHub Pages.
-
-### E-Commerce Website
-
-* Front-end e-commerce project focused on user experience and responsive design.
-* Built as part of practical web development learning.
-
-### Real Estate Web Application
-
-* Property listing platform prototype with organized content presentation.
-* Focused on responsive layouts and usability.
-
-### World Clock Application (Python)
-
-* Python application displaying multiple international time zones.
-* Demonstrates practical use of date and time handling.
-
-### CS50 Projects
-
-* Collection of programming assignments and problem-solving projects from Harvard CS50.
-* Covers algorithms, data structures, debugging, file handling, and software fundamentals.
-
----
-
-## GitHub Projects
-
-### Timezone Clock App
-
-🔗 https://github.com/m0h4m3d-byte/timezone-clock-app
-
-### SecureTask Pro
-
-🔗 https://github.com/m0h4m3d-byte/securetask-pro
-
-### PyScout
-
-🔗 https://github.com/m0h4m3d-byte/pyscout
-
-### ChefConnect
-
-🔗 https://github.com/m0h4m3d-byte/chefconnect
-
----
-
-## Certifications & Learning
+## Certifications
 
 * AI Career Essentials – ALX Arabia
 * Founder Academy – ALX Arabia
@@ -133,16 +122,22 @@ Transitioning into software development with over one year of focused self-direc
 
 ---
 
-## Current Focus
+## Connect With Me
 
-* Completing CS50x
-* Strengthening Web Development skills
-* Building real-world projects
-* Expanding Python knowledge
-* Preparing for Junior Developer opportunities
+**Portfolio Website**
+https://m0h4m3d-byte.github.io/
+
+**LinkedIn**
+https://www.linkedin.com/in/muhammad-g-shaheen/
+
+**GitHub**
+https://github.com/m0h4m3d-byte
+
+**Email**
+[dev3mohamed@gmail.com](mailto:dev3mohamed@gmail.com)
 
 ---
 
-## Fun Fact
+## Current Goal
 
-I enjoy learning through building real projects, experimenting with new technologies, and continuously improving my workflow using modern development and productivity tools.
+Build practical software projects, strengthen Computer Science fundamentals, complete CS50, and prepare for professional opportunities in software development.
